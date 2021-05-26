@@ -1,4 +1,10 @@
-# Jsonapi
+# JSON API
+
+this is a follow up practice.
+I was trying to learn about how to implement a JSON API with Elixir / Phoenix.
+
+credit goes to Víctor Adrián
+https://lobotuerto.com/blog/building-a-json-api-in-elixir-with-phoenix/
 
 To start your Phoenix server:
 
